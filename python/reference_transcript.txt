@@ -1,0 +1,1 @@
+Hello, my name is Madhulika. This is a demonstration of my AI voice clone. Today I am testing how artificial intelligence can learn the characteristics of a voice and generate natural speech.
